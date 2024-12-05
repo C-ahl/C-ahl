@@ -1,5 +1,5 @@
 ## Hi there 👋
- [![GitHub Streak](https://streak-stats.demolab.com?user=C-ahl&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) 
+[![GitHub Streak](https://github-readme-streak-stats-kappa-flame.vercel.app?user=C-Ahl&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 <!--
 **C-ahl/C-ahl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
